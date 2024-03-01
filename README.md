@@ -10,7 +10,7 @@
 and practice. 
 
 
-🌱 Well, I like to hear from you, please give me more feedback. [email](mailto:zhaoyanglove2022@126.com)
+🌱 Well, I like to hear from you, please give me more feedback. [mailto:zhaoyanglove2022@126.com](mailto:zhaoyanglove2022@126.com)
 
 <!--
 -->
