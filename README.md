@@ -11,5 +11,17 @@ and practice.
 
 
 🌱 Well, I like to hear from you, please give me more feedback. zhaoyanglove2022@126.com
+### 技能
+
+- 技能1
+- 技能2
+- 技能3
+
+### 统计信息
+
+| 统计项目     | 数量  |
+|------------|------|
+| GitHub 仓库数量 | 10   |
+| 关注者数量    | 100  |
 
 
