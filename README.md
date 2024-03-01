@@ -12,62 +12,13 @@ and practice.
 
 🌱 Well, I like to hear from you, please give me more feedback. zhaoyanglove2022@126.com
 
-### Skills
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 编程: <svg>...</svg>
-- 设计: <svg>...</svg>
-- 学习: <svg>...</svg>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Stats
-
-- GitHub 仓库数量: <svg>...</svg>
-- 关注者数量: <svg>...</svg>
-
-### 技能
-
-- 编程
-- 设计
-- 学习
-
-### 技能
-
-- 编程
-- 设计
-- 学习
-
-<canvas id="skillChart" width="400" height="200"></canvas>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-var ctx = document.getElementById('skillChart').getContext('2d');
-var skillChart = new Chart(ctx, {
-    type: 'bar',
-    data: {
-        labels: ['编程', '设计', '学习'],
-        datasets: [{
-            label: '技能',
-            data: [10, 8, 9],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-            ],
-            borderColor: [
-                'rgba(255, 99, 132, 1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)',
-            ],
-            borderWidth: 1
-        }]
-    },
-    options: {
-        scales: {
-            y: {
-                beginAtZero: true
-            }
-        }
-    }
-});
-</script>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
