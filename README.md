@@ -1,4 +1,4 @@
-https://github.com/BoXi9252/BoXi9252/blob/main/WechatIMG12.jpeg
+![图片描述](WechatIMG12.jpeg)
 
 
 
