@@ -29,6 +29,12 @@ and practice.
 - 设计
 - 学习
 
+### 技能
+
+- 编程
+- 设计
+- 学习
+
 <canvas id="skillChart" width="400" height="200"></canvas>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
