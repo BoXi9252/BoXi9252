@@ -1,4 +1,6 @@
 ![图片描述](wechatIMG12.jpeg)
+![Banner](https://raw.githubusercontent.com/BoXi9252/BoXi9252/main/banner.png)
+
 
 
 ### Hi👋  I AM YANG ZHAO
